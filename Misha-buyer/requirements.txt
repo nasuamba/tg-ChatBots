@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+mime
+pandas
+openpyxl
